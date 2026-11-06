@@ -1,0 +1,3 @@
+ ** (sshdump:1412) 09:45:27.952643 [libssh WARNING] -- ssh_userauth_publickey_auto(): ssh_userauth_publickey_auto: Access denied: Tried every public key, none matched
+ ** (sshdump:1412) 09:45:27.953356 [sshdump WARNING] C:\gitlab-builds\builds\MsQ3pox2\0\wireshark\wireshark\extcap\sshdump.c:254 -- ssh_open_remote_connection(): Error creating connection.
+ ** (sshdump:1412) 09:45:27.953429 [sshdump WARNING] C:\gitlab-builds\builds\MsQ3pox2\0\wireshark\wireshark\extcap\sshdump.c:275 -- ssh_open_remote_connection(): Can't find a valid authentication. Disconnecting.
